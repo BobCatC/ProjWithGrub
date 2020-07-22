@@ -26,3 +26,9 @@
     - read [0xAddr]. Совершает чтение из адреса;
     - write [0xAddr]. Записывает 0 в байт по адресу;
     - flush. Очищает кэш.
+
+![Alt text](/Screenshots/1\)%20startup%20screen.png?raw=true "Начальный экран")
+![Alt text](/Screenshots/6\)%20read%20result%20\(the%20same%20cache-line\).png?raw=true "Результат чтения одного байта из указанного адреса")
+![Alt text](/Screenshots/5\)%20write%20result.png?raw=true "Результат записи одного байта в указанный адрес")
+![Alt text](/Screenshots/8\)%20flush%20result.png?raw=true "Результат очистки кэша")
+
